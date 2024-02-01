@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+  <person id="1">
+    <firstname>Benjamin</firstname>
+    <lastname>Finkel</lastname>
+    <email>ben.finkel@cbtnuggets.com</email>
+  </person>
+
+  <person id="2">
+    <firstname>Jane</firstname>
+    <lastname>Doe</lastname>
+   <email>jane.doe@cbtnuggets.com</email>
+  </person>
+
+  <person id="3">
+    <firstname>Pat</firstname>
+    <lastname>Smith</lastname>
+    <email>pat.smith@cbtnuggets.com</email>
+  </person>
+</people>
+
+  

@@ -1,0 +1,18 @@
+sample/yaml
+---
+people:
+  - id: "person1"
+    first_name: "Enter first name here"
+    last_name: "Enter last name here"
+    email: "Enter email address here"
+    has_access: "false"  # Replace with "true" or "false" as needed
+  - id: "person2"
+    first_name: "Enter first name here"
+    last_name: "Enter last name here"
+    email: "Enter email address here"
+    has_access: "true"  # Replace with "true" or "false" as needed
+  - id: "person3"
+    first_name: "Enter first name here"
+    last_name: "Enter last name here"
+    email: "Enter email address here"
+    has_access: "false"  # Replace with "true" or "false" as needed
